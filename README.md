@@ -9,13 +9,13 @@ https://github.com/Vyshnavi21504/Random-quotes-generator/assets/111994644/2bce38
 
 
 ### Features
-Generates random quotes with a click of a button
+- Generates random quotes with a click of a button
 
 
-Retrieves quotes from a third-party API
+- Retrieves quotes from a third-party API
 
 
-Responsive design for different screen sizes
+- Responsive design for different screen sizes
 
 ### Technologies Used
 HTML ,
@@ -26,8 +26,8 @@ API( A third-party service that provides random quotes)
 ### Usage
 
 
-Click the "Get a  Quote" button to retrieve a random quote from the API.
+- Click the "Get a  Quote" button to retrieve a random quote from the API.
 
-The generated quote will be displayed on the webpage.
+- The generated quote will be displayed on the webpage.
 
-Click the "Get a Quote" button again to fetch a new random quote.
+- Click the "Get a Quote" button again to fetch a new random quote.
